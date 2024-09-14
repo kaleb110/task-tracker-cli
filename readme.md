@@ -15,7 +15,7 @@ A Node.js command-line interface (CLI) application for managing tasks. It allows
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/kaleb110/backend-projects/tree/main/task-tracker
+    git clone https://github.com/kaleb110/task-tracker-cli
     cd task-tracker-cli
     ```
 
